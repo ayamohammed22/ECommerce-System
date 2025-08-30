@@ -1,0 +1,46 @@
+name: dockercompose15980718867444054916
+services:
+  catalog.api:
+    build:
+      context: E:\NET\Microservices\Project\ECommerce
+      dockerfile: Services/Catalog/Catalog.API/Dockerfile
+    depends_on:
+      catalogdb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      DatabaseSettings__BrandsCollection: Brands
+      DatabaseSettings__ConnectionString: mongodb://CatalogDB:27017
+      DatabaseSettings__DataBaseName: CatalogDB
+      DatabaseSettings__ProductsCollection: Products
+      DatabaseSettings__TypesCollection: Types
+    image: catalogapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  catalogdb:
+    container_name: catalogdb
+    image: mongo
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27017
+        published: "27017"
+        protocol: tcp
+    volumes:
+      - type: volume
+        target: catalogdata
+        volume: {}
+networks:
+  default:
+    name: dockercompose15980718867444054916_default

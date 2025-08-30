@@ -1,0 +1,50 @@
+[
+  {
+    "id": "64f1b9e5f9a3b2d5e0a1c111",
+    "name": "iPhone 14 Pro",
+    "description": "Apple's flagship smartphone",
+    "summary": "High-end iPhone with A16 chip",
+    "imageFile": "iphone14pro.png",
+    "price": 999.99,
+    "brand": {
+      "id": "64f1b9e5f9a3b2d5e0a1a111",
+      "name": "Apple"
+    },
+    "type": {
+      "Id": "64f1b9e5f9a3b2d5e0a1b111",
+      "Name": "Smartphone"
+    }
+  },
+  {
+    "id": "64f1b9e5f9a3b2d5e0a1c112",
+    "name": "Galaxy Tab S8",
+    "description": "Samsung's premium tablet",
+    "summary": "High-performance Android tablet",
+    "imageFile": "galaxytabs8.png",
+    "price": 749.99,
+    "brand": {
+      "id": "64f1b9e5f9a3b2d5e0a1a112",
+      "name": "Samsung"
+    },
+    "type": {
+      "id": "64f1b9e5f9a3b2d5e0a1b112",
+      "name": "Tablet"
+    }
+  },
+  {
+    "id": "64f1b9e5f9a3b2d5e0a1c113",
+    "name": "Sony Vaio Z",
+    "description": "Lightweight premium laptop",
+    "summary": "High-end business laptop",
+    "imageFile": "sonyvaiosz.png",
+    "price": 1299.99,
+    "brand": {
+      "id": "64f1b9e5f9a3b2d5e0a1a113",
+      "name": "Sony"
+    },
+    "type": {
+      "id": "64f1b9e5f9a3b2d5e0a1b113",
+      "name": "Laptop"
+    }
+  }
+]
