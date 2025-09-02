@@ -1,0 +1,6 @@
+services:
+  basket.api:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: Services/Basket/Basket.API
+      dockerfile: Dockerfile
