@@ -1,7 +1,13 @@
 services:
+<<<<<<< HEAD
   catalog.api:
     image: catalogapi:dev
     container_name: "Catalog.API"
+=======
+  basket.api:
+    image: basketapi:dev
+    container_name: "Basket.API"
+>>>>>>> d4b1be752ddbc532c183dd80d3fdfee83e0d2a5c
     build:
       args:
         LAUNCHING_FROM_VS: true
@@ -9,14 +15,23 @@ services:
       target: base
       labels:
         com.microsoft.created-by: "visual-studio"
+<<<<<<< HEAD
         com.microsoft.visual-studio.project-name: "Catalog.API"
+=======
+        com.microsoft.visual-studio.project-name: "Basket.API"
+>>>>>>> d4b1be752ddbc532c183dd80d3fdfee83e0d2a5c
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=
     volumes:
+<<<<<<< HEAD
       - E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.API:/app:rw
       - E:\NET\Microservices\Project\ECommerce:/src:rw
+=======
+      - E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.API:/app:rw
+      - E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.API:/src:rw
+>>>>>>> d4b1be752ddbc532c183dd80d3fdfee83e0d2a5c
       - C:\Users\DELL\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\DELL\.nuget\packages:/.nuget/packages:ro
       - C:\Users\DELL\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
@@ -29,7 +44,11 @@ services:
     entrypoint: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --wait"
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
+<<<<<<< HEAD
       com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /.nuget/packages  \"/app/bin/Debug/net8.0/Catalog.API.dll\""
+=======
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /.nuget/packages  \"/app/bin/Debug/net8.0/Basket.API.dll\""
+>>>>>>> d4b1be752ddbc532c183dd80d3fdfee83e0d2a5c
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet"
     tty: true

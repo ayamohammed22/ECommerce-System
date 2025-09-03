@@ -1,5 +1,6 @@
 name: dockercompose15980718867444054916
 services:
+<<<<<<< HEAD
   catalog.api:
     build:
       context: E:\NET\Microservices\Project\ECommerce
@@ -8,6 +9,16 @@ services:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_HTTP_PORTS: "8080"
     image: catalogapi
+=======
+  basket.api:
+    build:
+      context: E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.API
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: basketapi
+>>>>>>> d4b1be752ddbc532c183dd80d3fdfee83e0d2a5c
     networks:
       default: null
     ports:
