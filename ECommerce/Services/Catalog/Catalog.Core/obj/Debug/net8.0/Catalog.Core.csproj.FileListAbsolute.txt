@@ -1,0 +1,13 @@
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.deps.json
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfoInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfo.cs
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.CoreCompileInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.AssemblyReference.cache
