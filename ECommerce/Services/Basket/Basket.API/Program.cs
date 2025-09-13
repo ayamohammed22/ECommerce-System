@@ -1,7 +1,9 @@
 using Basket.Application.Commands;
+using Basket.Application.GRPCServices;
 using Basket.Application.Mappers;
 using Basket.Core.Repositaries;
 using Basket.Infrastructure.Repositaries;
+using Discount.GRPC.Protos;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,7 +21,11 @@ builder.Services.AddMediatR(
                                               Assembly.GetAssembly(typeof(CreateShoppingCartCommand))));
 
 builder.Services.AddScoped<IBasketRepo, BasketRepo>();
-
+builder.Services.AddScoped<DiscountGRPCServices>();
+builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(o =>
+{
+    o.Address = new Uri(builder.Configuration["GrpcSettings:DiscountUrl"]);
+});
 builder.Services.AddApiVersioning(option =>
 {
     option.ReportApiVersions = true;

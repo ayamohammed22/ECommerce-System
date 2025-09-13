@@ -1,7 +1,31 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\NET\\Microservices\\Project\\ECommerce\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFAC662-70A7-4FFE-BEC7-020F2349298D}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\discount\\discount.infrastructure\\extenstions\\dbextenstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFAC662-70A7-4FFE-BEC7-020F2349298D}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:services\\discount\\discount.infrastructure\\extenstions\\dbextenstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|e:\\net\\microservices\\project\\ecommerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0F4E15-483E-4456-8E84-7199066DC32F}|Services\\Discount\\Discount.API\\Discount.API.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\discount\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC0F4E15-483E-4456-8E84-7199066DC32F}|Services\\Discount\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|e:\\net\\microservices\\project\\ecommerce\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|e:\\net\\microservices\\project\\ecommerce\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +54,86 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBExtenstion.cs",
+              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Discount\\Discount.Infrastructure\\Extenstions\\DBExtenstion.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Extenstions\\DBExtenstion.cs",
+              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Discount\\Discount.Infrastructure\\Extenstions\\DBExtenstion.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.Infrastructure\\Extenstions\\DBExtenstion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T01:27:51.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAL8AAAAAAAAAAADwv8sAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-10T23:54:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T23:21:03.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Discount\\Discount.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\appsettings.json",
+              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Discount\\Discount.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\Discount.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T02:42:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-08T01:27:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-08T01:04:17.301Z",
+              "EditorCaption": ""
             }
           ]
         }

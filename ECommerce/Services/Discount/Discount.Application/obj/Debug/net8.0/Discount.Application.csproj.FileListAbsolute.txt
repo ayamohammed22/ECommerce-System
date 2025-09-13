@@ -1,0 +1,16 @@
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Application.deps.json
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Application.dll
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Application.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Core.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.csproj.AssemblyReference.cache
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.AssemblyInfoInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.AssemblyInfo.cs
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.csproj.CoreCompileInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.sourcelink.json
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.FBECC352.Up2Date
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.dll
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\refint\Discount.Application.dll
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Discount\Discount.Application\obj\Debug\net8.0\ref\Discount.Application.dll
