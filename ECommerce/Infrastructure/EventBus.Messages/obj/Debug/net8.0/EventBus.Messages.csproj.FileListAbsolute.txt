@@ -1,0 +1,12 @@
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.deps.json
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.dll
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.pdb
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfoInputs.cache
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfo.cs
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.sourcelink.json
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.dll
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\refint\EventBus.Messages.dll
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.pdb
+E:\NET\Microservices\Project\ECommerce\Infrastructure\EventBus.Messages\obj\Debug\net8.0\ref\EventBus.Messages.dll

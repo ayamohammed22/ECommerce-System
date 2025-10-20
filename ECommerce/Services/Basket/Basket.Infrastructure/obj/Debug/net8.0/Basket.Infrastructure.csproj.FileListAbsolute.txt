@@ -16,3 +16,5 @@ E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\obj
 E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\refint\Basket.Infrastructure.dll
 E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infrastructure.pdb
 E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\ref\Basket.Infrastructure.dll
+E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.dll
+E:\NET\Microservices\Project\ECommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\EventBus.Messages.pdb

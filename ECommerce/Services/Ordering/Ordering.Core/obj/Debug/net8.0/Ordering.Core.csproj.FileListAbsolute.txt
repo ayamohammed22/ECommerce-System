@@ -1,0 +1,12 @@
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.deps.json
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\bin\Debug\net8.0\Ordering.Core.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.AssemblyInfoInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.AssemblyInfo.cs
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.csproj.CoreCompileInputs.cache
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.sourcelink.json
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\refint\Ordering.Core.dll
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\Ordering.Core.pdb
+E:\NET\Microservices\Project\ECommerce\Services\Ordering\Ordering.Core\obj\Debug\net8.0\ref\Ordering.Core.dll

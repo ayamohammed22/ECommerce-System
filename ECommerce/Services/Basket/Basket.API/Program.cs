@@ -4,6 +4,7 @@ using Basket.Application.Mappers;
 using Basket.Core.Repositaries;
 using Basket.Infrastructure.Repositaries;
 using Discount.GRPC.Protos;
+using MassTransit;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -26,6 +27,17 @@ builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(
 {
     o.Address = new Uri(builder.Configuration["GrpcSettings:DiscountUrl"]);
 });
+
+
+builder.Services.AddMassTransit(config =>
+{
+    config.UsingRabbitMq((ctx, cfg) =>
+    {
+        cfg.Host(builder.Configuration["EventBusSettings:HostAddress"]);
+    });
+});
+builder.Services.AddMassTransitHostedService();
+
 builder.Services.AddApiVersioning(option =>
 {
     option.ReportApiVersions = true;

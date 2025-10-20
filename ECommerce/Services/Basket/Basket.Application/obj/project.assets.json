@@ -386,6 +386,16 @@
         "runtime": {
           "bin/placeholder/Basket.Core.dll": {}
         }
+      },
+      "EventBus.Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        }
       }
     }
   },
@@ -1046,12 +1056,18 @@
       "type": "project",
       "path": "../Basket.Core/Basket.Core.csproj",
       "msbuildProject": "../Basket.Core/Basket.Core.csproj"
+    },
+    "EventBus.Messages/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
       "Basket.Core >= 1.0.0",
+      "EventBus.Messages >= 1.0.0",
       "Grpc.AspNetCore >= 2.71.0",
       "MediatR >= 13.0.0"
     ]
@@ -1086,6 +1102,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "E:\\NET\\Microservices\\Project\\ECommerce\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj": {
+              "projectPath": "E:\\NET\\Microservices\\Project\\ECommerce\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj"
+            },
             "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj": {
               "projectPath": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj"
             }
