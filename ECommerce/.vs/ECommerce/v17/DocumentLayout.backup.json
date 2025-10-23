@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\NET\\Microservices\\Project\\ECommerce\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|e:\\net\\microservices\\project\\ecommerce\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2A4DC43A-F3BE-4364-9D49-6A0A19FDE495}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7DF8524-7130-4124-BFF2-E0DECD32DEA5}|Services\\Basket\\Basket.API\\Basket.API.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7DF8524-7130-4124-BFF2-E0DECD32DEA5}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16114E6-1F48-40AB-9C9F-91756D8D0666}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16114E6-1F48-40AB-9C9F-91756D8D0666}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16114E6-1F48-40AB-9C9F-91756D8D0666}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16114E6-1F48-40AB-9C9F-91756D8D0666}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A9497F6-114D-46BF-BC90-A133A61C6A30}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|e:\\net\\microservices\\project\\ecommerce\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A9497F6-114D-46BF-BC90-A133A61C6A30}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 51,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,69 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAIUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-20T01:09:55.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
-              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.API\\Program.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T01:58:34.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T01:57:23.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BasketOrderingConsumer.cs",
-              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T01:37:47.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderMappingProfile.cs",
-              "DocumentMoniker": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
-              "ToolTip": "E:\\NET\\Microservices\\Project\\ECommerce\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T00:16:43.378Z"
             }
           ]
         }

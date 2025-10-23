@@ -51,6 +51,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.Messages", "Infrastructure\EventBus.Messages\EventBus.Messages.csproj", "{1DDBC4B8-21F0-4568-AE59-C7BBB43329E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Logging", "Infrastructure\Common.Logging\Common.Logging.csproj", "{FFF905F5-4692-4185-A968-0F6B8FF4D10F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{1DDBC4B8-21F0-4568-AE59-C7BBB43329E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DDBC4B8-21F0-4568-AE59-C7BBB43329E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DDBC4B8-21F0-4568-AE59-C7BBB43329E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF905F5-4692-4185-A968-0F6B8FF4D10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF905F5-4692-4185-A968-0F6B8FF4D10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF905F5-4692-4185-A968-0F6B8FF4D10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF905F5-4692-4185-A968-0F6B8FF4D10F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +161,7 @@ Global
 		{8A9497F6-114D-46BF-BC90-A133A61C6A30} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{6192D7DA-9639-4477-B890-A1F180E41827} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1DDBC4B8-21F0-4568-AE59-C7BBB43329E9} = {3586E6F2-7A64-421E-96AF-9D1D7331089A}
+		{FFF905F5-4692-4185-A968-0F6B8FF4D10F} = {3586E6F2-7A64-421E-96AF-9D1D7331089A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {585D5C1E-76B8-4CC8-A6F3-21996FBA8E9A}

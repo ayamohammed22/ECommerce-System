@@ -3,11 +3,15 @@ using Basket.Application.GRPCServices;
 using Basket.Application.Mappers;
 using Basket.Core.Repositaries;
 using Basket.Infrastructure.Repositaries;
+using Common.Logging;
 using Discount.GRPC.Protos;
 using MassTransit;
+using Serilog;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Host.UseSerilog(Logging.ConfigureLogger);
 
 // Add services to the container.
 
